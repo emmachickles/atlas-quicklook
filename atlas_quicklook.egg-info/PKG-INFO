@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: atlas-quicklook
+Version: 0.1.0
+Summary: ATLAS light curve quick look utilities
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Provides-Extra: dev
+Requires-Dist: jupyter; extra == "dev"
+Requires-Dist: ipython; extra == "dev"
+
+# atlas-quicklook

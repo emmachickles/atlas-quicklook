@@ -1,0 +1,15 @@
+name: atlas-quicklook
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - astropy
+  - jupyter
+  - ipython
+  - pip
+  - pip:
+    - -e .
