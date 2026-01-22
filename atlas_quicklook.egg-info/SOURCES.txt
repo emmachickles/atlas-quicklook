@@ -3,6 +3,7 @@ pyproject.toml
 setup.py
 atlas_ql/__init__.py
 atlas_ql/utils/__init__.py
+atlas_ql/utils/bls.py
 atlas_ql/utils/io.py
 atlas_ql/utils/paths.py
 atlas_ql/utils/plotting.py
